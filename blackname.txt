@@ -1,0 +1,2 @@
+sonarqube.sh
+sonarqube_systex.sh
